@@ -1,0 +1,40 @@
+body {text-align: center;
+
+	background-color: white;
+
+	margin-top: 100px;
+	margin-right: 300px;
+	margin-left: 300px;
+	font-family: 'Raleway', sans-serif;
+}
+
+
+
+h1 {
+	color: blue;
+}
+
+
+.big-picture { 
+	width: 1000px;
+	height: 500px;
+	object-fit: cover;
+}
+
+.rectangular-picture { 
+	width: 500px;
+	height: 1000px;
+	object-fit: cover;
+}
+
+.texte-center {
+	text-align: center;
+}
+
+
+div {
+	background-color: blue;
+	padding: 100px;
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
